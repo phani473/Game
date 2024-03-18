@@ -1,6 +1,6 @@
 # Game
 
-This Game is created by Prompt Engineering by ChatGpt4
+This Game is created by Prompt Engineering using ChatGpt4
 
 The entire game is written in python.
 
